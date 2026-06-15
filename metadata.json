@@ -1,0 +1,6 @@
+{
+  "name": "AgentOne",
+  "description": "Your AI Employee for Customer Calls. Answers customer calls, books appointments, captures leads, and sends WhatsApp confirmations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
